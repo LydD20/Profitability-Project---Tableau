@@ -1,1 +1,2 @@
-# Profitability-Project---Tableau
+# Profitability Project with Tableau
+For this project, I worked on creating a interactive dashboard that grouped profitability of a company based on different categories (state, region, type of sales, etc.). The data comes from one of Tableau's free datasets called Superstore. I included a downloadable Tableau file in case you have Tableau Public, as well as a png file which does not show the interactive ability of the visualization. 
